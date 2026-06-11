@@ -56,4 +56,4 @@ Analyst → Security Engineer (DevSecOps) - 5–8 hrs/week - Jun 2026 → Jun 20
 
 ## Q4 (Mar–Jun 2027): Polish 
 
-- [ ] **Project 4 — 
+- [ ] **Project 4 — TBA
